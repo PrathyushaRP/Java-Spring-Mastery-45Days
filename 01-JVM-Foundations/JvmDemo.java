@@ -8,6 +8,6 @@ public class JvmDemo {
         int age = 25; // Stack (Primitive)
         String name = new String("Prathyusha"); // 'name' reference on Stack, Object on Heap
         
-        System.out.println("JVM Demo complete.");
+        System.out.println("JVM Demo complete hiiiii.");
     }
 }
